@@ -1,3 +1,6 @@
 this is txt document "A"
 
+
 loclal change
+
+merge conlfict
